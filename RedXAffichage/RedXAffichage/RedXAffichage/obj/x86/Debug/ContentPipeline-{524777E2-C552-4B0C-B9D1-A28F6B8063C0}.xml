@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>watcher.FBX</Source>
+      <Name>watcher</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guerboukha yacine\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\watcher.xnb</Output>
+      <Time>2016-02-10T09:33:07.6087805+01:00</Time>
+      <Dependency>
+        <Key>c:\users\guerboukha yacine\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\watcher_0.xml</Key>
+        <Value>2016-02-10T09:33:10.4595759+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>watcher.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\users\guerboukha yacine\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\watcher_0.xml</Output>
+      <Time>2016-02-10T09:33:07.6087805+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Liberty.FBX</Source>
+      <Name>Liberty</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guerboukha yacine\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\Liberty.xnb</Output>
+      <Time>2016-02-10T16:08:20.7162963+01:00</Time>
+      <Dependency>
+        <Key>c:\users\guerboukha yacine\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\Liberty_0.xml</Key>
+        <Value>2016-02-10T16:53:43.6411413+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Liberty.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\users\guerboukha yacine\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\Liberty_0.xml</Output>
+      <Time>2016-02-10T16:08:20.7162963+01:00</Time>
+    </Item>
+    <Item>
+      <Source>earth.FBX</Source>
+      <Name>earth</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\earth.xnb</Output>
+      <Time>2016-02-10T23:17:40.1042127+01:00</Time>
+      <Dependency>
+        <Key>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\earth_0.xml</Key>
+        <Value>2016-02-10T23:17:41.1469526+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\earth_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>earth.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\earth_0.xml</Output>
+      <Time>2016-02-10T23:17:40.1042127+01:00</Time>
+    </Item>
+    <Item>
+      <Source>earth.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\earth_0.xnb</Output>
+      <Time>2016-02-10T11:30:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fond.jpg</Source>
+      <Name>fond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\fond.xnb</Output>
+      <Time>2016-02-10T23:38:30.4508243+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HouseLow.FBX</Source>
+      <Name>HouseLow</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\HouseLow.xnb</Output>
+      <Time>2016-02-11T16:28:39.2658041+01:00</Time>
+      <Dependency>
+        <Key>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\HouseLow_0.xml</Key>
+        <Value>2016-02-11T16:29:13.8661762+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>HouseLow.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\HouseLow_0.xml</Output>
+      <Time>2016-02-11T16:28:39.2658041+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{524777E2-C552-4B0C-B9D1-A28F6B8063C0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichageContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\GUERBOUKHA YACINE\documents\visual studio 2015\Projects\RedXAffichage\RedXAffichage\RedXAffichage\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-09T15:15:16.4719662+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

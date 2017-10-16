@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedXAffichage", "RedXAffichage\RedXAffichage\RedXAffichage.csproj", "{032A0245-52E3-41E8-AFFA-EE3670BB4074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedXAffichageContent", "RedXAffichage\RedXAffichageContent\RedXAffichageContent.contentproj", "{524777E2-C552-4B0C-B9D1-A28F6B8063C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedXControl", "..\..\RedXControl\RedXControl\RedXControl.csproj", "{C531F221-4EAB-46BD-9F34-FE85404643F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovementWatcher", "..\..\RedXControl\MovementWatcher\MovementWatcher.csproj", "{E93BABA4-ACCD-4D91-B71A-C155F04FE119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032A0245-52E3-41E8-AFFA-EE3670BB4074}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{032A0245-52E3-41E8-AFFA-EE3670BB4074}.Debug|x86.ActiveCfg = Debug|x86
+		{032A0245-52E3-41E8-AFFA-EE3670BB4074}.Debug|x86.Build.0 = Debug|x86
+		{032A0245-52E3-41E8-AFFA-EE3670BB4074}.Release|Any CPU.ActiveCfg = Release|x86
+		{032A0245-52E3-41E8-AFFA-EE3670BB4074}.Release|x86.ActiveCfg = Release|x86
+		{032A0245-52E3-41E8-AFFA-EE3670BB4074}.Release|x86.Build.0 = Release|x86
+		{524777E2-C552-4B0C-B9D1-A28F6B8063C0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{524777E2-C552-4B0C-B9D1-A28F6B8063C0}.Debug|x86.ActiveCfg = Debug|x86
+		{524777E2-C552-4B0C-B9D1-A28F6B8063C0}.Release|Any CPU.ActiveCfg = Release|x86
+		{524777E2-C552-4B0C-B9D1-A28F6B8063C0}.Release|x86.ActiveCfg = Release|x86
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{C531F221-4EAB-46BD-9F34-FE85404643F8}.Release|x86.Build.0 = Release|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Debug|x86.Build.0 = Debug|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Release|x86.ActiveCfg = Release|Any CPU
+		{E93BABA4-ACCD-4D91-B71A-C155F04FE119}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://redxgroupe3labege.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RedXAffichage\\RedXAffichage\\RedXAffichage.csproj
+		SccProjectName1 = RedXAffichage/RedXAffichage
+		SccLocalPath1 = RedXAffichage\\RedXAffichage
+		SccProjectUniqueName2 = RedXAffichage\\RedXAffichageContent\\RedXAffichageContent.contentproj
+		SccProjectName2 = RedXAffichage/RedXAffichageContent
+		SccLocalPath2 = RedXAffichage\\RedXAffichageContent
+		SccProjectUniqueName3 = ..\\..\\RedXControl\\RedXControl\\RedXControl.csproj
+		SccProjectName3 = ../../RedXControl/RedXControl
+		SccLocalPath3 = ..\\..\\RedXControl\\RedXControl
+		SccProjectUniqueName4 = ..\\..\\RedXControl\\MovementWatcher\\MovementWatcher.csproj
+		SccProjectName4 = ../../RedXControl/MovementWatcher
+		SccLocalPath4 = ..\\..\\RedXControl\\MovementWatcher
+	EndGlobalSection
+EndGlobal
